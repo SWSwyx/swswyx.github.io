@@ -1,0 +1,4 @@
+inject:
+  bottom:
+   - <canvas id="universe"></canvas>
+   - <script defer src="/js/universe.js"></script>
